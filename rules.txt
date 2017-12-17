@@ -1,0 +1,26 @@
+Rules:
+
+The classic "SNAKE" game. The rules are simple--
+don't run into the wall, and don't run into your
+own tail. It may seem easy at first, but just
+wait, your snake will grow in length and speed
+up as it eats!
+
+Control your snake with the W, A, S, and D keys,
+by simply pressing the key corresponding to the
+direction you'd like your snake to turn. The goal
+of the game is to get as high a score as possible
+by eating as much food as you can. The amount by
+which your score increases when your snake eats a
+piece of food will increase with the difficulty of
+the game. But be careful, as the game goes on,
+preventing your snake from getting tangled up in
+its own tail will take careful planning.
+
+As a courtesy to more skilled players, the option
+is provided to start with a longer and faster
+snake. This will mean that the difficulty and the
+rate at which points are accumulated will start
+at a higher level.
+
+Have fun playing!  
